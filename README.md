@@ -10,4 +10,4 @@
 📫 How to reach me: Just DM on LinkedIN: https://www.linkedin.com/in/alexander-kolotow-17b7a5193/
 
 
-			> Wenn der Wind der Veränderung weht, bauen die einen Mauern und die anderen Windmühlen.
+	> Wenn der Wind der Veränderung weht, bauen die einen Mauern und die anderen Windmühlen.
