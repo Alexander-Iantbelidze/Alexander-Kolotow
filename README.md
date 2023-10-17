@@ -2,9 +2,10 @@
  👋 Hi, I’m @Alexander-Kolotow
 </h1>
 
-<div align="center">
-<img src="https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg" alt="Code" width="800" height="70">
-</div>
+<p align="center">
+<img width="750" height="120" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="code" />
+</p>
+
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
 <br>
