@@ -1,5 +1,5 @@
 <h1 align="center">
- 👋 Hi, I’m @Alexander-Kolotow
+ Welcome, my name is Alex 👋 🙂
 </h1>
 
 <p align="center">
@@ -10,13 +10,13 @@
 <dl><dd><dl><dd><dl><dd><dl><dd>
 <br>
 
-👀 I’m interested in **coding**		
+👨🏼‍💻 I’m interested in **coding**		
 <br> <br>
-🌱 I’m currently learning Web Dev
+🤩🥳 I recently completed a Web Development bootcamp @neuefische.de
 <br> <br>
-💞️ I’m looking to collaborate on diverse projects around Web Dev
+🤝 I am open to any form of collaboration in Web Development
 <br> <br>
-📫 How to reach me: Just DM on LinkedIN: https://www.linkedin.com/in/alexander-kolotow-17b7a5193/
+📫 Just DM me on LinkedIN: https://www.linkedin.com/in/alexander-kolotow-17b7a5193/
 <br> <br>
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
