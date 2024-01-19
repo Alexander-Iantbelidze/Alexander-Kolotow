@@ -20,4 +20,4 @@
 <br> <br>
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
-	> Wenn der Wind der Veränderung weht, bauen die einen Mauern und die anderen Windmühlen.
+	> When the wind of change blows, some build walls and others build windmills.
