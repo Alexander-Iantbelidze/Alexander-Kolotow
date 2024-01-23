@@ -14,6 +14,8 @@
 <br> <br>
 🤩🥳 I recently completed a Web Development bootcamp @neuefische.de
 <br> <br>
+💡This is our app project: https://github.com/Janis1992-08/Capstone-Project-ServiceCircle
+<br> <br>
 🤝 I am open to any form of collaboration in Web Development
 <br> <br>
 📫 Just DM me on LinkedIN: https://www.linkedin.com/in/alexander-kolotow-17b7a5193/
