@@ -10,13 +10,7 @@
 <dl><dd><dl><dd><dl><dd><dl><dd>
 <br>
 
-👨🏼‍💻 I’m interested in **coding**		
-<br> <br>
-🤩🥳 I recently completed a Web Development bootcamp @neuefische.de
-<br> <br>
-💡This is our app project: https://github.com/Janis1992-08/Capstone-Project-ServiceCircle
-<br> <br>
-🤝 I am open to any form of collaboration in Web Development
+👨🏼‍💻 I’m a Frontend Developer @HRworks GmbH basend in Freiburg im Breisgau.	
 <br> <br>
 📫 Just DM me on LinkedIN: https://www.linkedin.com/in/alexander-kolotow-17b7a5193/
 <br> <br>
