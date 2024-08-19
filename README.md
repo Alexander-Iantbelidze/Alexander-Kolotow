@@ -10,7 +10,7 @@
 <dl><dd><dl><dd><dl><dd><dl><dd>
 <br>
 
-👨🏼‍💻 I’m a Frontend Developer @HRworks GmbH basend in Freiburg im Breisgau.	
+👨🏼‍💻 I’m a Frontend Developer @HRworks GmbH based in Freiburg im Breisgau.	
 <br> <br>
 📫 Just DM me on LinkedIN: https://www.linkedin.com/in/alexander-kolotow-17b7a5193/
 <br> <br>
