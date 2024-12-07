@@ -34,7 +34,3 @@ I'm not just a Frontend Developer, I'm a digital alchemist turning ideas into in
 <p align="center">
   <i>"When the wind of change blows, some build walls and others build windmills."</i>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="windmill" width="200"/>
-</p>
