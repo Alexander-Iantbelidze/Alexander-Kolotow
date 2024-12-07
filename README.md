@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-kolotow-17b7a5193/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://de.linkedin.com/in/alexander-iantbelidze-17b7a5193/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/Alexander-Iantbelidze"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
